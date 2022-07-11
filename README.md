@@ -1,6 +1,4 @@
-<div align="center">
 ![](https://komarev.com/ghpvc/?username=0x21B&style=flat-square)
-</div>
 
 <div align="center">
   <h1>Joshua, 14</h1>
