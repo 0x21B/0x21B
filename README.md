@@ -1,5 +1,5 @@
 <div align="center">
-# ![](https://komarev.com/ghpvc/?username=0x21B&style=flat-square)
+![](https://komarev.com/ghpvc/?username=0x21B&style=flat-square)
 </div>
 
 <div align="center">
