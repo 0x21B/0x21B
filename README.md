@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=0x21B&style=flat-square)
-
 <div align="center">
   <h1>Joshua, 14</h1>
   <h3>Interested in Web Exploitation and Programming<h3>
