@@ -12,10 +12,8 @@
 
 <div align="center">
   <details close><summary>Contact :</summary>
-    <h1>Discord ID: </h1>
-    <h3>(872439204175577158)</h3>
-   
-    <h3>(Use https://discord.id/ for profile information.)</h3>
+    <h3>Discord ID: 872439204175577158</h3>
+    <h3>Use https://discord.id/ for profile information.</h3>
   </details>
  </div>
 
