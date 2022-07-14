@@ -11,6 +11,7 @@
 </div>
 
 <div align="center">
-<h1>Contact:</h1>
-<h3>Discord : ``872439204175577158``</h3>
+  <h1>Contact:</h1>
+  <h3>Discord : ```872439204175577158```</h3>
+ </div>
 
