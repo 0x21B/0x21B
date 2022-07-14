@@ -11,7 +11,12 @@
 </div>
 
 <div align="center">
-  <h1>Contact:</h1>
-  <h3>Discord : ```872439204175577158```</h3>
+  <details open><summary>Contact :</summary>
+  Discord:
+  ```
+  872439204175577158
+  ```
+  (Use https://discord.id for profile information.)
+  </details>
  </div>
 
