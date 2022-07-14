@@ -12,10 +12,7 @@
 
 <div align="center">
   <details open><summary>Contact :</summary>
-  Discord:
-  ```
-  872439204175577158
-  ```
+  Discord ID : 872439204175577158
   (Use https://discord.id for profile information.)
   </details>
  </div>
