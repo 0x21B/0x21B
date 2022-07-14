@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Joshua, 14</h1>
-  <h3>Interested in Web Exploitation and Programming<h3>
+  <h3>Interested in Web Exploitation and Programming</h3>
+  <h3>Most of my projects are private, so I just dump whatever I don't like here.</h3>
 </div>
 
 <div align="center">
