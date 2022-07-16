@@ -10,7 +10,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png?w=740&t=st=1657564488~exp=1657565088~hmac=de19acfe942276c176c2d2d3cf1371ec71627a9a73434c4d8ea177e19deb5ae5" alt="linux" width="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="40"/>
   <img src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-microsoft-windows-logos-vector-eps-cdr-svg-25.png" alt="windows" width="45"/>
-  <img src=" https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/03/CommandLineIcon.png" alt="cmd" width="45"/>
+  <img src="https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/03/CommandLineIcon.png" alt="cmd" width="45"/>
 </div>
 
 <div align="center">
