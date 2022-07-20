@@ -15,7 +15,8 @@
 
 <div align="center">
   <details close><summary>Contact :</summary>
-    <h4>Discord ID: 994544677636296786</h4>
+    <h4>Discord ID : 994544677636296786</h4>
+    >h4>Telegram : https://t.me/crimin_l
     <h4>Use https://discord.id/ for profile information.</h4>
   </details>
  </div>
